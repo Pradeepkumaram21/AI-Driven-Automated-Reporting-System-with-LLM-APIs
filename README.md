@@ -74,8 +74,6 @@ Slack Channel
 
 ## 🎯 Use Cases
 
-## 🎯 Use Cases
-
 - Monthly financial reporting and performance summaries  
 - Sales, revenue, and expense trend analysis  
 - Management and leadership updates via Slack  
