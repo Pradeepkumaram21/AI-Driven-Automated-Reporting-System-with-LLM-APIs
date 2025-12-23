@@ -104,3 +104,8 @@ Slack Channel
 
 This repository is intended as a proof-of-work and learning project.  
 No real financial data,  or credentials are included.
+
+---
+
+I have uploaded the output screenshots and video. Please have a look.
+
