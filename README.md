@@ -1,4 +1,4 @@
-# AI-Driven Automated Reporting System with LLM APIs
+# AI-Driven Automated Reporting System with LLM APIs Using Zapier
 
 > **A cost-efficient, AI-driven automated reporting system built using free-tier Google Gemini Flash LLM APIs to analyze financial data from Google Sheets and deliver insights automatically to Slack.**
 
